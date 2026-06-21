@@ -84,10 +84,10 @@ Observe Vima's high-performance optimization:
 ## 📂 Implementation Code Reference
 
 When integrating Vima into your own codebase, check the following key files in this example for reference:
-- **Configuration & Setup**: [Vima.php](file:///app/Config/Vima.php) & [Setup.php](file:///app/Libraries/Vima/Setup.php)
-- **Controller Enforcement**: [Dashboard.php](file:///app/Controllers/Dashboard.php)
-- **Route Interception**: [Routes.php](file:///app/Config/Routes.php)
-- **Dynamic ABAC Policies**: [Policies/](file:///app/Policies/)
+- **Configuration & Setup**: [Vima.php](app/Config/Vima.php) & [Setup.php](app/Libraries/Vima/Setup.php)
+- **Controller Enforcement**: [Dashboard.php](app/Controllers/Dashboard.php)
+- **Route Interception**: [Routes.php](app/Config/Routes.php)
+- **Dynamic ABAC Policies**: [Policies/](app/Policies/)
 
 ---
 
