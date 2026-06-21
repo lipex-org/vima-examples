@@ -1,0 +1,20 @@
+{
+    "roles": {
+        "ADMIN": "admin",
+        "MANAGER": "manager",
+        "VIEWER": "viewer",
+        "TEAM_LEAD": "team_lead",
+        "FINANCIER": "financier",
+        "CFO": "cfo"
+    },
+    "permissions": {
+        "PROJECT_CREATE": "project.create",
+        "PROJECT_READ": "project.read",
+        "PROJECT_UPDATE": "project.update",
+        "PROJECT_DELETE": "project.delete",
+        "EXPENSE_CREATE": "expense.create",
+        "EXPENSE_READ": "expense.read",
+        "EXPENSE_APPROVE": "expense.approve"
+    },
+    "namespaces": []
+}

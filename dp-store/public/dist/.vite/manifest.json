@@ -1,0 +1,20 @@
+{
+  "resources/css/main.entrypoint.css": {
+    "file": "assets/resources_css_main_entrypoint_css-Dr5Zv_gA.css",
+    "name": "resources_css_main_entrypoint_css",
+    "names": [
+      "resources_css_main_entrypoint_css.css"
+    ],
+    "src": "resources/css/main.entrypoint.css",
+    "isEntry": true
+  },
+  "resources/js/main.entrypoint.ts": {
+    "file": "assets/resources_js_main_entrypoint_ts-COt-Yjhj.js",
+    "name": "resources_js_main_entrypoint_ts",
+    "src": "resources/js/main.entrypoint.ts",
+    "isEntry": true,
+    "css": [
+      "assets/resources_css_main_entrypoint_css-Dr5Zv_gA.css"
+    ]
+  }
+}
