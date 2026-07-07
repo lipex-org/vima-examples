@@ -88,8 +88,10 @@ class Autoload extends AutoloadConfig
      *
      * @var list<string>
      */
-    public $helpers = ['Jengo\\Base\\Helpers\\jengo',
+    public $helpers = [
+        'Jengo\\Base\\Helpers\\jengo',
         'CodeIgniter\\Shield\\Helpers\\auth',
         'CodeIgniter\\Settings\\Helpers\\setting',
-        'Vima\CodeIgniter\Helpers\vima'];
+        'Vima\CodeIgniter\Helpers\vima'
+    ];
 }
